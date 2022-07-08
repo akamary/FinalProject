@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>job-scheduling-software.png</file>
+  </qresource>
+</RCC>
