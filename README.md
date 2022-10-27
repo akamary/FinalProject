@@ -1,4 +1,5 @@
-# Approximation algorithms for minimizing total busy time in parallel machines - Final Project
+# Approximation algorithms for minimizing total busy time in parallel machines
+## Final Project
 <img width="600" src="https://github.com/akamary/FinalProject/blob/master/MyGIF.gif">
 
 ## Description
