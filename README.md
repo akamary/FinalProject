@@ -1,5 +1,6 @@
 # Approximation algorithms for minimizing total busy time in parallel machines - Final Project
 ![](https://github.com/akamary/FinalProject/blob/master/MyGIF.gif=800x400)
+h
 <img width="400" src="https://github.com/akamary/FinalProject/blob/master/MyGIF.gif">
 
 Hello, here's how to run the project:
