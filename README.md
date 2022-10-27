@@ -1,4 +1,4 @@
-# ProjectPartB
+# Approximation algorithms for minimizing total busy time in parallel machines - Final Project
 ![](https://github.com/akamary/FinalProject/blob/master/GIF.gif)
 
 
