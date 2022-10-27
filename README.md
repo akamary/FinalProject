@@ -1,6 +1,6 @@
 # Approximation algorithms for minimizing total busy time in parallel machines - Final Project
-![](https://github.com/akamary/FinalProject/blob/master/GIF.gif)
-
+![](https://github.com/akamary/FinalProject/blob/master/MyGIF.gif=800x400)
+<img width="400" src="https://github.com/akamary/FinalProject/blob/master/MyGIF.gif">
 
 Hello, here's how to run the project:
 1. Install a Python IDE such as Pycharm or Spyder (We used Pycharm)
