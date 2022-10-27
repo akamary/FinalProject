@@ -1,4 +1,7 @@
 # ProjectPartB
+![](https://github.com/akamary/FinalProject/blob/master/GIF.gif)
+
+
 Hello, here's how to run the project:
 1. Install a Python IDE such as Pycharm or Spyder (We used Pycharm)
 2. Install Python 3.9
